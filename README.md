@@ -1,4 +1,4 @@
 # jamesaustinmyer.github.io
 personal website
 
-something
+something something else
